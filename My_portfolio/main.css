@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(80, 80, 102);
+    text-align: center;
+}
+
+.image-sudhakar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: 
+    url(
+    "https://lh3.googleusercontent.com/Ta31fma9qY47pHhe0wr2HZY58YllOM9nlW9Sg_ltV5h2K59RkXg3m8wJKE5gOSQw6qddjC1JNbgx=w892-h1189-rw-no"
+    );
+    background-size: cover;
+    box-shadow: green 0 2px 2px 2px;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    dispaly: block;
+    margin: 0 auto;
+    color:  rgb(2, 2, 243);
+}
+
+p {
+    font-family: arial, sans-serif;
+    font-size: 1.3rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.line {
+    width: 50%;
+    height: 1px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(151, 151, 241);
+}
+
+.facebook img {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline;
+}
+
+.linkedin img {
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#div1 {
+    display: inline-block;
+    font-size: 1.3rem;
+}
+
+#div2 {
+    display: inline-block;
+}
+
+#wrap {
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
